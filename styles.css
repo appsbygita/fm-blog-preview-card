@@ -80,6 +80,11 @@ body {
 h1 {
   font-size: 24px;
 }
+h1:hover {
+  color: var(--yellow);
+  cursor: pointer;
+}
+
 p {
   color: var(--grey);
   line-height: 150%;
